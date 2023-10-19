@@ -1,2 +1,2 @@
-# mi-repo-2
+# mi-segundo-repositorio
 Mi segundo repositorio en GitHub
